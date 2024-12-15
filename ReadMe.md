@@ -8,6 +8,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+EVERYONE;WELCOME+TO+MY+GITHUB+PROFILE;I'M+SAMEER+RATHOD;NICE+TO+SEE+YOU'LL)](https://git.io/typing-svg)
 
 
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=733FD0&random=false&width=690&height=64&lines=HELLO+EVERYONE;WELCOME+TO+MY+GITHUB+PROFILE;+++++++++++++++I'M+SAMEER+RATHOD" alt="Typing SVG" /></a>
+</h1>
+
+
   
 # 💻 Tech Stack:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
