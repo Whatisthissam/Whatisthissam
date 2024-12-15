@@ -3,6 +3,10 @@
 ![gif](https://github.com/Whatisthissam/Whatisthissam/blob/main/Pastime.gif)
 
 
+
+ <div align="center">
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+EVERYONE;WELCOME+TO+MY+GITHUB+PROFILE;I'M+SAMEER+RATHOD;NICE+TO+SEE+YOU'LL)](https://git.io/typing-svg)
 
 
