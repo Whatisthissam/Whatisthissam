@@ -1,3 +1,9 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
+</h1>
+ 
+ 
+ 
  <div align="center">
   
 ![gif](https://github.com/Whatisthissam/Whatisthissam/blob/main/Pastime.gif)
@@ -6,9 +12,6 @@
  
 
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=733FD0&random=false&width=690&height=64&lines=HELLO+EVERYONE;+++++++++++++++WELCOME+TO+MY+GITHUB+PROFILE;+++++++++++++++I'M+SAMEER+RATHOD" alt="Typing SVG" /></a>
-</h1>
 
 
   
