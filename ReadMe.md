@@ -14,7 +14,11 @@
 # 📊 GitHub Stats:
  <div align="left">
 
-![](https://github-readme-stats.vercel.app/api?username=whatisthissam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)         ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I0a2NqaWFya3N0ODA3c3Jlem5iOHpudjk4eTRncmdvbnZoazdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X2Iney7tVHeWtS1Y9Z/giphy.webp)<br/>
+![](https://github-readme-stats.vercel.app/api?username=whatisthissam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)      
+
+<div align="left"> 
+
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I0a2NqaWFya3N0ODA3c3Jlem5iOHpudjk4eTRncmdvbnZoazdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X2Iney7tVHeWtS1Y9Z/giphy.webp)<br/>
 
 
      
