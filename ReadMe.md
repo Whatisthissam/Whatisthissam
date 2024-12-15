@@ -1,19 +1,13 @@
  <div align="center">
-
+  
 ![gif](https://github.com/Whatisthissam/Whatisthissam/blob/main/Pastime.gif)
 
 
-
- <div align="center">
-
-
+<div align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+EVERYONE;WELCOME+TO+MY+GITHUB+PROFILE;I'M+SAMEER+RATHOD;NICE+TO+SEE+YOU'LL)](https://git.io/typing-svg)
 
 
-
-
- 
- <div align="center">
   
 # 💻 Tech Stack:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
