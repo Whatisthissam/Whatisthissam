@@ -1,6 +1,6 @@
  <div align="center">
 
-![gif](![Pastime](https://github.com/user-attachments/assets/d5216ac0-ed20-4e6c-8a31-a3676fbfebf3))
+![gif](https://github.com/Whatisthissam/Whatisthissam/blob/main/Pastime.gif)
 
 
 
