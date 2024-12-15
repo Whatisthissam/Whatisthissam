@@ -6,7 +6,7 @@
  
  <div align="center">
   
-![gif](https://github.com/Whatisthissam/Whatisthissam/blob/main/Pastime.gif)
+![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4OWVyaWdscnBka280bml5Nm9rMTJsc2FkeHM0czhlY283djMxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp)
 
 
  
