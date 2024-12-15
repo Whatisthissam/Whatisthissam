@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 <img src=" <div align="center">
-<img src="https://media1.tenor.com/m/i22Batz8ryoAAAAd/lofi.gif" align="center"  height="250" style="width: 100%" width="1000"/>
+<img src="" align="center"  height="250" style="width: 100%" width="1000"/>
 </div>
 
 
