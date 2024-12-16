@@ -70,7 +70,7 @@
 <div align="left">
 
 <picture> 
-<a href="https://github.com/Whatisthissam/Whatisthissam/blob/main/typing.gif" alt="Developer">
+<a href=""  ![](https://github.com/Whatisthissam/Whatisthissam/blob/main/typing.gif) alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
 </a>
 </picture>
