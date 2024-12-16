@@ -70,7 +70,7 @@
 <div align="left">
 
 <picture> 
-<a href="https://github.com/Whatisthissam/Whatisthissam/blob/main/Hello%20world%20image.jpeg?raw=true" alt="Developer">
+<a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4OWVyaWdscnBka280bml5Nm9rMTJsc2FkeHM0czhlY283djMxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
 </a>
 </picture>
