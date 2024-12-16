@@ -40,12 +40,11 @@ I'm a Computer Engineer from India.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
  
  <div align="center">
   
-![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4OWVyaWdscnBka280bml5Nm9rMTJsc2FkeHM0czhlY283djMxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -100,7 +99,10 @@ I'm a Computer Engineer from India.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4OWVyaWdscnBka280bml5Nm9rMTJsc2FkeHM0czhlY283djMxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp)
 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
