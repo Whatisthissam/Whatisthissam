@@ -13,6 +13,8 @@
 
 
  <div align="center">
+
+ 
      
 # 📊 GitHub Stats:
 
@@ -29,7 +31,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=whatisthissam&theme=nightowl&hide_border=false)<br/>
 
 
-
+---
 
 
 # 💻 Tech Stack:
@@ -67,14 +69,14 @@
 [![](https://visitcount.itsvg.in/api?id=whatisthissam&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
-<div align="left">
+<div align="center">
 
-<picture> 
-<a href=""  ![](https://github.com/Whatisthissam/Whatisthissam/blob/main/typing.gif) alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
-</a>
+<picture> ![](https://github.com/Whatisthissam/Whatisthissam/blob/main/typing.gif)>
 </picture>
 
+
+<div align="center">
+    
 ```js
 "use creativity";
 import { Person } from 'India';
