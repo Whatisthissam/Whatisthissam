@@ -1,3 +1,7 @@
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 ![](https://github.com/Whatisthissam/Whatisthissam/blob/main/Purple%20and%20White%20Modern%20Business%20YouTube%20Thumbnail.png?raw=true)
 
 
@@ -69,11 +73,8 @@
 [![](https://visitcount.itsvg.in/api?id=whatisthissam&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
-<div align="center">
 
-<picture> ![](https://github.com/Whatisthissam/Whatisthissam/blob/main/typing.gif)>
-</picture>
-
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding gif" height="30%" width="30%" align="right">
 
 <div align="center">
     
