@@ -67,10 +67,10 @@
 [![](https://visitcount.itsvg.in/api?id=whatisthissam&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
-
+<div align="left">
 
 <picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<a href="https://github.com/Whatisthissam/Whatisthissam/blob/main/Hello%20world%20image.jpeg?raw=true" alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
 </a>
 </picture>
