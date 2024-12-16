@@ -66,4 +66,29 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=whatisthissam&icon=1&color=1)](https://visitcount.itsvg.in)
 
+
+
+
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'India';
+
+new Person({
+    name   : 'Sameer Rathod',
+    title  : 'Future Tech Leader',
+    email  : 'sameerrathod2006@gmail.com',
+}).introduce();
+```
+
+```cmd
+C:\Sameer Rathod> node index.js
+Hi, my name is sameer rathod, I'm a Computer Engineer from India.
+```
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
