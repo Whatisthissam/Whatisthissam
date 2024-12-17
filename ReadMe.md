@@ -13,6 +13,7 @@
 </h1>
 
 
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://github.com/Whatisthissam/Whatisthissam/blob/main/typing.gif?raw=true" alt="coding gif" height="55%" width="55%" align="right">
