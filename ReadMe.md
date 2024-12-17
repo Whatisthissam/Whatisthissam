@@ -64,7 +64,8 @@ I'm a Computer Engineer from India.
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=whatisthissam&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=whatisthissam&theme=nightowl&hide_border=false) <br/>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
