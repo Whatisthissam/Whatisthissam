@@ -2,6 +2,7 @@
 
 
 
+
 ![](https://github.com/Whatisthissam/Whatisthissam/blob/main/Purple%20and%20White%20Modern%20Business%20YouTube%20Thumbnail.png?raw=true)
 
 
