@@ -71,7 +71,7 @@ I'm a Computer Engineer from India.
 
 # Frequently used tech🚀
 
-<img src="https://skillicons.dev/icons?i=python,discord,github,cpp,git,vscode,notion,ps,linkedin" />
+<img src="https://skillicons.dev/icons?i=python,discord,github,cpp,vscode,notion,ps,linkedin" />
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
