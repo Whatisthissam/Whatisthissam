@@ -107,7 +107,7 @@ I'm a Computer Engineer from India.
 
 
 
-<h3 align="center">🤝Connect with Me🤝</h3>
+<h3 align="center">🤝Feel free to connect with me🤝</h3>
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samishonest) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-rathod-234333319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
